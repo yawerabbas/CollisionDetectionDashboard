@@ -13,10 +13,8 @@ import plotly.express as px
 # DATA_URL = ("C:/Users/user/Documents/Coding/Python/StreamlitWebApp/Motor_Vehicle_Collisions_-_Crashes.csv")
 
 # push to heroku
-DATA_URL = ("https://github.com/chairielazizi/streamlit-collision/blob/master/Motor_Vehicle_Collisions_-_Crashes.csv?raw=true")
+DATA_URL = ("https://github.com/yawerabbas/CollisionDetectionDashboard/blob/master/Motor_Vehicle_Collisions_-_Crashes.csv")
 
-#st.title("Ahoy World!")
-#st.markdown("### My first streamlit dashboard!?")
 
 st.title("Motor Vehicles Collision in New York City")
 st.markdown("This application is streamlit dashboard that can be used to analyze motor vehicle collision in NYC")
